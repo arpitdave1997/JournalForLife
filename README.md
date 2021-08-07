@@ -1,2 +1,2 @@
-# JournalForLife
-A personal project focusing to create a journal for everything that I want to express. 
+# JournalOfLife - Developmental Documentation 
+Repository setup for development on Blog
